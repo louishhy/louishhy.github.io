@@ -18,7 +18,7 @@ site-keywords:
 favicon-url: 
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+heroimage: assets/images/heroimage.png
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
@@ -28,6 +28,7 @@ twitter_username:
 instagram_username: 
 linkedin_username: louishhy
 github_username:  louishhy
+steam_username: 76561198189168023
 youtube_channel_id: 
 reddit_username: 
 behance_username: 
@@ -45,7 +46,7 @@ author-name: Haoyu Huang
 # URL for the Image of the Author
 author-image: assets/images/author.jpg
 # 60 Words About the Author
-author-about: TEST
+author-about: Hi! I am Haoyu Huang (黄皓煜) from Department of Computer Science, The University of Hong Kong. I am currently a research assistant at HKU AIoT lab, focusing on the topic of Computer Vision based HCI.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/louishhy
 
