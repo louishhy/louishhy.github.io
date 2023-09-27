@@ -46,7 +46,12 @@ author-name: Haoyu Huang
 # URL for the Image of the Author
 author-image: assets/images/author.jpg
 # 60 Words About the Author
-author-about: Hi!👋 I am Haoyu Huang (黄皓煜) from Department of Computer Science, The University of Hong Kong. I am currently a research assistant at <a class="no-margin" href="https://aiot.hku.hk/">HKU AIoT lab</a>, focusing on the topic of Computer Vision based HCI.
+author-about: Hi!👋 I am Haoyu Huang (黄皓煜) and 
+I am currently a research student at <a class="no-margin" href="https://www.ut-vision.org/sato-lab/">Yoichi Sato lab</a> 
+in The University of Tokyo. 
+Before joining UTokyo, I received a B.Eng. degree in Computer Science in The University of Hong Kong
+and was a research assistant at <a class="no-margin" href="https://aiot.hku.hk/">HKU AIoT lab</a>.
+My research interest is Computer Vision based HCI.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/louishhy
 
