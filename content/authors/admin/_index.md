@@ -68,7 +68,7 @@ work:
     date_start: 2022-06-01
     date_end: 2023-04-30
     summary: |
-      - Supervised by Dr. Chenshu Wu
+      - Supervised by Dr. Chenshu Wu.
       - Conducted research on hand-over-face gesture interaction system using deep learning and computer vision.
   - position: Head teaching assistant, Game design & development
     company_name: TechX Academy
