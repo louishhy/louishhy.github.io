@@ -30,9 +30,9 @@ role: MASc @ The University of Tokyo
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'louishhy5557@gmail.com'
-    label: E-mail Me
+  # - icon: at-symbol
+  #   url: 'louishhy5557@gmail.com'
+  #   label: E-mail Me
   - icon: brands/github
     url: https://github.com/louishhy
     label: GitHub
