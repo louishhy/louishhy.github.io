@@ -42,7 +42,7 @@ education:
   - area: MASc (Interdisciplinary Information Studies)
     institution: The University of Tokyo
     date_start: 2024-04-01
-    date_end: current
+    date_end: 'now'
     summary: |
       - Supervised by Prof. Yoichi Sato
       - Research on human-computer interaction, deep learning (computer vision)
