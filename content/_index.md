@@ -46,8 +46,4 @@ sections:
   #   content:
   #     title: Languages
   #     username: admin
-  - block: markdown
-    content:
-      title: Skills
-      text: Skill markdown session text test
 ---
