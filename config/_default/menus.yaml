@@ -8,8 +8,5 @@ main:
     url: /
     weight: 10
   - name: Blog
-    url: blog/
+    url: https://blog.louishhy.com/
     weight: 20
-  - name: Uses
-    url: uses/
-    weight: 30
