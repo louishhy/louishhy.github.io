@@ -21,7 +21,7 @@ sections:
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
-        filename: heroimage.png
+        filename: kalen-emsley-Bkci_8qcdvQ-unsplash.jpg
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'
@@ -33,11 +33,11 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: true
-  - block: skills
-    content:
-      # title: Skills & Hobbies
-      title: Technical Skills
-      username: admin
+  # - block: skills
+  #   content:
+  #     # title: Skills & Hobbies
+  #     title: Technical Skills
+  #     username: admin
   # - block: awards
   #   content:
   #     title: Awards

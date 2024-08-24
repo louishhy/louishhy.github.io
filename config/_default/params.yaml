@@ -36,9 +36,7 @@ header:
     enable: true
     blox: "navbar"
     show_theme_chooser: true
-    align: left
-    logo:
-      text: Haoyu Huang
+    align: right
 
 # Site footer
 footer:
