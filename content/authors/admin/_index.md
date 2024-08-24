@@ -50,7 +50,7 @@ education:
       - Supervised by Prof. Yoichi Sato
       - Research on human-computer interaction, deep learning (computer vision)
   
-  - area: BEng (Computer Science), first class honours
+  - area: BEng (Computer Science), First class honours
     institution: The University of Hong Kong
     date_start: 2019-09-01
     date_end: 2023-06-30
@@ -152,4 +152,4 @@ skills:
 #       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-Hi!👋 I am Haoyu Huang (黄皓煜) and I am currently a master student at [Yoichi Sato lab](https://www.ut-vision.org/sato-lab/) in The University of Tokyo. Before joining UTokyo, I received a B.Eng. degree in Computer Science in The University of Hong Kong and was a research assistant at [HKU AIoT lab](https://aiot.hku.hk/).
+Hi!👋 I am Haoyu Huang and I am currently a master student at [Yoichi Sato lab](https://www.ut-vision.org/sato-lab/) in The University of Tokyo. Before joining UTokyo, I received a B.Eng. degree in Computer Science in The University of Hong Kong and was a research assistant at [HKU AIoT lab](https://aiot.hku.hk/).
