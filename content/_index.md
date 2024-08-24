@@ -36,10 +36,10 @@ sections:
   - block: skills
     content:
       # title: Skills & Hobbies
-      title: Technical Skills
+      title: Skills
       username: admin
     design:
-      columns: '1'
+      columns: 1
   # - block: awards
   #   content:
   #     title: Awards
