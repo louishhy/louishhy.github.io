@@ -44,6 +44,7 @@ education:
   - area: MASc (Interdisciplinary Information Studies)
     institution: The University of Tokyo
     date_start: 2024-04-01
+    # Set to `null` to show "Present"
     date_end: null
     summary: |
       - Supervised by Prof. Yoichi Sato
@@ -91,6 +92,20 @@ skills:
         description: ''
         # percent: 40
         icon: devicon/pytorch
+  - name: Languages
+    items:
+      - name: English
+        description: 'TOEFL 115/120'
+        # percent: 100
+        # icon: flag-usa
+      - name: Chinese
+        description: 'Native'
+        # percent: 75
+        # icon: flag-china
+      - name: Japanese
+        description: 'JLPT N1 134/180'
+        # percent: 25
+        # icon: flag-japan
 #   - name: Hobbies
 #     color: '#eeac02'
 #     color_border: '#f0bf23'
