@@ -83,7 +83,7 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: ""
+  - name: "Technical Skills"
     items:
       - name: Python
         description: ''
@@ -91,14 +91,15 @@ skills:
       - name: PyTorch
         description: ''
         icon: devicon/pytorch
-      - name: English
-        description: 'TOEFL 115/120'
-        # percent: 100
-      - name: Chinese
-        description: 'Native'
-        # percent: 75
-      - name: Japanese
-        description: 'JLPT N1 134/180'
+  - name: "Languages"
+    - name: English
+      description: 'TOEFL 115/120'
+      # percent: 100
+    - name: Chinese
+      description: 'Native'
+      # percent: 75
+    - name: Japanese
+      description: 'JLPT N1 134/180'
         # percent: 25
   # - name: Hobbies
   #   color: '#eeac02'
