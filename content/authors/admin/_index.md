@@ -35,8 +35,10 @@ profiles:
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/louishhy
+    label: GitHub
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/louishhy/
+    label: LinkedIn
 
 education:
   - area: MASc (Interdisciplinary Information Studies)
@@ -78,21 +80,17 @@ work:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-# skills:
-#   - name: Technical Skills
-#     items:
-#       - name: Python
-#         description: ''
-#         percent: 80
-#         icon: devicon/python
-#       - name: RStudio
-#         description: ''
-#         percent: 100
-#         icon: devicon/rstudio
-#       - name: PyTorch
-#         description: ''
-#         percent: 40
-#         icon: devicon/pytorch
+skills:
+  - name: Technical Skills
+    items:
+      - name: Python
+        description: ''
+        # percent: 80
+        icon: devicon/python
+      - name: PyTorch
+        description: ''
+        # percent: 40
+        icon: devicon/pytorch
 #   - name: Hobbies
 #     color: '#eeac02'
 #     color_border: '#f0bf23'
@@ -110,13 +108,13 @@ work:
 #         percent: 80
 #         icon: camera
 
-# languages:
-#   - name: English
-#     percent: 100
-#   - name: Chinese
-#     percent: 75
-#   - name: Portuguese
-#     percent: 25
+languages:
+  - name: English
+    # percent: 100
+  - name: Chinese
+    # percent: 75
+  - name: Japanese
+    # percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
