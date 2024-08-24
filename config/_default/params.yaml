@@ -34,9 +34,9 @@ marketing:
 header:
   navbar:
     enable: true
-    blox: "navbar"
+    blox: "navbar-simple"
     show_theme_chooser: true
-    align: right
+    align: left
 
 # Site footer
 footer:
