@@ -67,8 +67,9 @@ work:
     company_logo: ''
     date_start: 2022-06-01
     date_end: 2023-04-30
-    summary: |2-
-      - Conducted research on hand-over-face gesture interaction system.
+    summary: |
+      - Supervised by Dr. Chenshu Wu
+      - Conducted research on hand-over-face gesture interaction system using deep learning and computer vision.
   - position: Head teaching assistant, Game design & development
     company_name: TechX Academy
     company_url: 'https://info.xacademy.cc/'
@@ -149,4 +150,4 @@ skills:
 #       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-Hi!👋 I am Haoyu Huang (黄皓煜) and I am currently a master student at Yoichi Sato lab in The University of Tokyo. Before joining UTokyo, I received a B.Eng. degree in Computer Science in The University of Hong Kong and was a research assistant at HKU AIoT lab.
+Hi!👋 I am Haoyu Huang (黄皓煜) and I am currently a master student at [Yoichi Sato lab](https://www.ut-vision.org/sato-lab/) in The University of Tokyo. Before joining UTokyo, I received a B.Eng. degree in Computer Science in The University of Hong Kong and was a research assistant at [HKU AIoT lab](https://aiot.hku.hk/).
