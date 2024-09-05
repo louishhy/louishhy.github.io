@@ -79,6 +79,14 @@ work:
     summary: |
       - Responsible for teaching & learning task for C# based Unity game design and development.
       - Assisted in teaching plan making, gave tutorials, coordinating TAs and aiding students in finishing their capstone hackathon.
+  - position: Student Intern
+    company_name: Dept. of Industrial and Manufacturing Systems Engineering, The University of Hong Kong
+    company_url: 'https://www.imse.hku.hk/'
+    company_logo: ''
+    date_start: 2020-09-01
+    date_end: 2021-09-30
+    summary: |
+      - Participated in computer vision project on calibrating photos of everyday object with virtual 3D models.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
