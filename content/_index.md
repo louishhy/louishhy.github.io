@@ -24,7 +24,16 @@ sections:
         filename: null
       biography:
         # Customize the style of your biography text
-        style: 'text-align: justify; font-size: 0.8em;'
+        style: |
+          text-align: justify; 
+          font-size: 0.8em; 
+          padding-left: 1rem; 
+          padding-right: 1rem;
+          
+          @media only screen and (max-width: 600px) {
+            padding-left: 2rem;
+            padding-right: 2rem;
+          }
   - block: experience
     content:
       username: admin
