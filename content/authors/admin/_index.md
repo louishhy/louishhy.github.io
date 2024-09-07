@@ -161,3 +161,5 @@ skills:
 ---
 
 Hi!👋 I am Haoyu Huang and I am currently a master student at [Yoichi Sato lab](https://www.ut-vision.org/sato-lab/) in The University of Tokyo. Before joining UTokyo, I received a B.Eng. degree in Computer Science in The University of Hong Kong and was a research assistant at [HKU AIoT lab](https://aiot.hku.hk/).
+
+Check out my [blog](https://blog.louishhy.com) if you are interested in my random thoughts. :)
