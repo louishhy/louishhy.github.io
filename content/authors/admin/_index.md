@@ -65,10 +65,10 @@ work:
     company_name: PKSHA Technology
     company_url: https://www.pkshatech.com/
     company_logo: ''
-    date_start: 2022-09-01
-    date_end: 2023-09-30
+    date_start: 2024-09-01
+    date_end: 2024-09-30
     summary: |
-      - DEvelopment of a large language model-based chatbot system.
+      - Development of a large language model-based chatbot system.
       - Mainly worked on backend development / deployment and LLM prompt engineering.
   - position: Research assistant
     company_name: HKU Artificial Intelligence of Things Lab
