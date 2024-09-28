@@ -93,7 +93,7 @@ work:
     company_url: 'https://www.imse.hku.hk/'
     company_logo: ''
     date_start: 2020-09-01
-    date_end: 2021-09-30
+    date_end: 2020-09-30
     summary: |
       - Participated in computer vision project on calibrating photos of everyday object with virtual 3D models.
 
